@@ -64,5 +64,3 @@ Figures will be saved to `figures/` as `.png` files.
 These scripts are designed for open publication of benchmark visualization pipelines in line with reproducibility standards.
 
 ---
-**Maintainer**: [Your Name or Lab]  
-**License**: MIT or your preferred license.
