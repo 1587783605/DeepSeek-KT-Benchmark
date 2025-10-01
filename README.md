@@ -10,12 +10,8 @@ DeepSeek-KT-Benchmark-R-visuals/
 ├── visualize_consistency.R           # Bar chart of model consistency with doctors
 ├── visualize_likert_responses.R      # Stacked Likert plot for readability & comprehensiveness
 ├── data/                             # Place your Excel data files here
-│   ├── accuracy.xlsx
-│   ├── consistency.xlsx
-│   ├── readability.xlsx
-│   └── comprehensiveness.xlsx
 ├── figures/                          # Output figures will be saved here
-```
+
 
 ## 🔧 Requirements
 
